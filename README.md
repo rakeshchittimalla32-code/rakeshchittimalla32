@@ -1,4 +1,4 @@
-# rakeshchittimalla32# 👋 Hi, I’m Rakesh
+Hi, I’m Rakesh
 
 🌐 **Network Engineer | Enterprise Networking | Routing, Switching & Troubleshooting**  
 📍 United Kingdom
